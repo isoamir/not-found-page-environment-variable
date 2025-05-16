@@ -39,6 +39,21 @@ A full-featured blog management panel built with [Next.js 15](https://nextjs.org
 
 ### 1. Clone the repository
 
+
+📌 Project Status
+🚧 This project is currently under active development.
+New features and improvements are being added regularly.
+
+🙌 Contributing
+Pull requests are welcome! If you'd like to contribute, feel free to fork the repo and submit a PR.
+
+📄 License
+This project is licensed under the MIT License.
+
+🤝 Contact
+Developed by AmirAli SheikhMohammadi
+📧 Email: isoamirz@gmail.com
+
 ```bash
 git clone https://github.com/isoamir/blog-admin-panel.git
 cd blog-admin-panel
@@ -58,17 +73,3 @@ npm run dev
 # or
 yarn dev
 
-
-📌 Project Status
-🚧 This project is currently under active development.
-New features and improvements are being added regularly.
-
-🙌 Contributing
-Pull requests are welcome! If you'd like to contribute, feel free to fork the repo and submit a PR.
-
-📄 License
-This project is licensed under the MIT License.
-
-🤝 Contact
-Developed by AmirAli SheikhMohammadi
-📧 Email: isoamirz@gmail.com
